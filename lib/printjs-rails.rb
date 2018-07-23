@@ -1,1 +1,1 @@
-include 'printjs/rails'
+require 'printjs/rails'
